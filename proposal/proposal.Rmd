@@ -1,7 +1,7 @@
 ---
-title: "Title"
+title: "Missing Migrants"
 author: 
-  - Last Name, First Name[^1]
+  - TIKICI, Enes[1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: Student ID, [Github Repo](https://github.com/YOUR_USER_NAME_HERE/YOUR_REPO_NAME_HERE)
+[^1]: 20080503, [Github Repo](https://github.com/YOUR_USER_NAME_HERE/YOUR_REPO_NAME_HERE)
 
 # Important Information About Midterm
 
@@ -45,16 +45,11 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 \colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
-
-The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
-
-In this section, mention the purpose and importance of your work in a few paragraphs.
+The purpose of my work is to examine the dataset on missing-immigrants. First of all, I accessed this dataset from the website of The International Organization for Migration (IOM). This dataset includes immigrants who lost their lives or disappeared in the first quarter of 2023, taking into account various variables. Some of these variables are: the region where the incident occurred, the year and month it occurred, the gender of those who lost their lives, the region in which they were trying to migrate, etc. This dataset I found includes 220 observations and 23 variables, but some of these observations and variables will not be included in the analysis in this study. The basic question that I will try to answer in the literature review section is “Where and in which region the most deaths occur during migration and how these immigrants lose their lives?” will be. This question is directly related to the articles I found and my dataset, and I will address this question in detail in the literature review section.
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
-
+Due to various reasons such as economic inadequacy, violation of human rights, destruction of the rule of law, severe restriction of individual freedoms, chaos in the country, racism, individuals may decide to immigrate from their country of origin, either on their own or with their families, and may be compelled to do so. . The loss of their lives on the migration route of these individuals who decide to immigrate is called "missing immigrants" in the international arena. Since 2014, when the missing migrants were documented, more than 50 thousand people lost their lives during this migration. 29,126 of these 50 thousand people planned to migrate to Europe. Of these 29,126 people, 25,104 died by drowning in the Mediterranean.(@ahmad2021anatomy,). Autopsies are usually not performed for these immigrants who lost their lives because most of them died by drowning. Identification of the deceased migrant is usually done by their close relatives - if there is a specific mark on their body. Otherwise, it is identified and identified by fingerprint(@robins2022affective,). The data currently available indicate that deaths directly related to border control at land borders are higher than at sea. However, for the vast majority, the cause of death is only indirectly related to border control. While most boat migrants die from suffocation, hypothermia and thirst, most stowaways seem to die of suffocation and thirst(@last2014tracking,). This issue of missing immigrants is an issue that the international public does not pay enough attention to. Most deaths occur in the Mediterranean, as immigrants usually plan to migrate to Europe via the Mediterranean. There are certain families that want to attract the attention of the international public on this issue, one of them is a family that mourns and struggles for every common grave in the Mediterranean, and often takes political steps to find the truth about their loved ones and honor their remains (@kovras2016death,).
 
 
 **References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
